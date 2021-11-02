@@ -3,7 +3,7 @@
 - The GUI for this software is built using Tkinter.
 > Installer : In the dist folder of the repository, you will find the setup for Note-Book.
 ### Overview
-![main](https://user-images.githubusercontent.com/67188972/139910704-0f59f6e8-a5d1-49a0-b88b-1d1b7b4c1e93.png)
+![main](https://user-images.githubusercontent.com/67188972/139911804-2a3edf08-e7d2-4d93-9397-480cf4cfaa8b.png)
 ### File Menu
 ![file](https://user-images.githubusercontent.com/67188972/139910715-e183af10-da4f-4b14-9dce-5a6b82efe6fd.png)
 ### Edit Menu
