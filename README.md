@@ -1,8 +1,9 @@
 # Note-Book
 - Note-Book is a cross platform Computer Software and contains all necessary features that every Text Editor must have.
 - It has a slick user interface and some amazing features.
-> Stack : Python & Tkinter
-> Installer : In the dist folder of the repository, you will find the setup for Note-Book.
+> Technologies Used : Python & Tkinter
+
+> Installer : In the dist folder of the repository, you will find the setup for this application.
 ### Overview
 ![main](https://user-images.githubusercontent.com/67188972/139911804-2a3edf08-e7d2-4d93-9397-480cf4cfaa8b.png)
 ### File Menu
