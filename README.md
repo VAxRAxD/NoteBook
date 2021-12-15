@@ -1,6 +1,6 @@
 # Note-Book
 - Cross platform Computer Software that contains all necessary features that every Text Editor must have.
-Designed a slick user interface and some amazing features.
+Designed a slick user interface for a better user experience.
 > Technologies Used : Python & Tkinter
 
 > Installer : In the dist folder of the repository, you will find the setup for this application.
