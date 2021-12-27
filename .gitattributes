@@ -1,6 +1,2 @@
 *.tcl linguist-detectable=false
 *.html linguist-detectable=false
-*build/ linguist-detectable=false
-*.1 linguist-detectable=false
-*.2 linguist-detectable=false
-*.3 linguist-detectable=false
