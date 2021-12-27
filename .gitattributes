@@ -1,5 +1,7 @@
 *.dll linguist-detectable=false
 *.tcl linguist-detectable=false
 *.tk linguist-detectable=false
+*.ttk linguist-detectable=false
 *.html linguist-detectable=false
 *.pks linguist-detectable=false
+*.plsql linguist-detectable=false
