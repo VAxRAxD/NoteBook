@@ -1,3 +1,5 @@
-*.tcltk linguist-detectable=false
+*.tcl linguist-language=Tcl
+*.tcl linguist-detectable=false
 *.html linguist-detectable=false
+*.plsql linguist-language=PLSQL
 *.plsql linguist-detectable=false
