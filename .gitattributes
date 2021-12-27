@@ -1,3 +1,3 @@
-*.tcl linguist-detectable=false
+*.tcltk linguist-detectable=false
 *.html linguist-detectable=false
 *.plsql linguist-detectable=false
