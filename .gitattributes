@@ -1,4 +1,6 @@
 *.tcl linguist-detectable=false
 *.dtrace linguist-detectable=false
+*.roff linguist-detectable=false
 *.html linguist-detectable=false
+*.plsql linguist-detectable=false
 *.python linguist-detectable=true
