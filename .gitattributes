@@ -1,4 +1,4 @@
 *.tcl linguist-detectable=false
-build*.tcl linguist-detectable=false
+build*tcl linguist-detectable=false
 *.win linguist-detectable=false
 *.html linguist-detectable=false
